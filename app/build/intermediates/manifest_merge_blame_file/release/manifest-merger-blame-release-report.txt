@@ -36,7 +36,7 @@
 22-->C:\Users\Administrator\AndroidStudioProjects\Winator\app\src\main\AndroidManifest.xml:14:9-48
 23        <activity
 23-->C:\Users\Administrator\AndroidStudioProjects\Winator\app\src\main\AndroidManifest.xml:16:9-24:20
-24            android:name="com.example.helloworld.MainActivity"
+24            android:name="com.example.winator.MainActivity"
 24-->C:\Users\Administrator\AndroidStudioProjects\Winator\app\src\main\AndroidManifest.xml:17:13-41
 25            android:exported="true" >
 25-->C:\Users\Administrator\AndroidStudioProjects\Winator\app\src\main\AndroidManifest.xml:18:13-36

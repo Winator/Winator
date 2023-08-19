@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.helloworld.app-mergeReleaseResources-24:/values-pa/values-pa.xml",
+            "outputFile": "com.example.winator.app-mergeReleaseResources-24:/values-pa/values-pa.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-3\\d4b64ce115264eee4ef5139e292b8f81\\transformed\\appcompat-1.4.2\\res\\values-pa\\values-pa.xml",

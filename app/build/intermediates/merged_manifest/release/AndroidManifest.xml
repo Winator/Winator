@@ -21,7 +21,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.HelloWorld" >
         <activity
-            android:name="com.example.helloworld.MainActivity"
+            android:name="com.example.winator.MainActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

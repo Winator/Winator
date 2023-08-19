@@ -48,7 +48,7 @@ INJECTED from C:\Users\Administrator\AndroidStudioProjects\Winator\app\src\main\
 INJECTED from C:\Users\Administrator\AndroidStudioProjects\Winator\app\src\main\AndroidManifest.xml:2:1-27:12
 INJECTED from C:\Users\Administrator\AndroidStudioProjects\Winator\app\src\main\AndroidManifest.xml:2:1-27:12
 	package
-		ADDED from C:\Users\Administrator\AndroidStudioProjects\Winator\app\src\main\AndroidManifest.xml:4:5-37
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Winator\app\src\main\AndroidManifest.xml:4:5-34
 		INJECTED from C:\Users\Administrator\AndroidStudioProjects\Winator\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Administrator\AndroidStudioProjects\Winator\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -103,7 +103,7 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Administrator\.gra
 		ADDED from C:\Users\Administrator\AndroidStudioProjects\Winator\app\src\main\AndroidManifest.xml:14:9-48
 	android:dataExtractionRules
 		ADDED from C:\Users\Administrator\AndroidStudioProjects\Winator\app\src\main\AndroidManifest.xml:8:9-65
-activity#com.example.helloworld.MainActivity
+activity#com.example.winator.MainActivity
 ADDED from C:\Users\Administrator\AndroidStudioProjects\Winator\app\src\main\AndroidManifest.xml:16:9-24:20
 	android:exported
 		ADDED from C:\Users\Administrator\AndroidStudioProjects\Winator\app\src\main\AndroidManifest.xml:18:13-36
