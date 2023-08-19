@@ -1,0 +1,10 @@
+#Sat Aug 19 17:41:41 IDT 2023
+base.0=C\:\\Users\\Administrator\\AndroidStudioProjects\\Winator\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+base.1=C\:\\Users\\Administrator\\AndroidStudioProjects\\Winator\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.2=C\:\\Users\\Administrator\\AndroidStudioProjects\\Winator\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\6\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=6/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex

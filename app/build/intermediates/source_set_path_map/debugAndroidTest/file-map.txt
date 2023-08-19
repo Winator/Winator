@@ -1,0 +1,7 @@
+com.example.helloworld.test.app-androidTest-0 C:\Users\Administrator\AndroidStudioProjects\Winator\app\build\generated\res\resValues\androidTest\debug
+com.example.helloworld.test.app-androidTest-1 C:\Users\Administrator\AndroidStudioProjects\Winator\app\build\generated\res\rs\androidTest\debug
+com.example.helloworld.test.app-mergeDebugAndroidTestResources-2 C:\Users\Administrator\AndroidStudioProjects\Winator\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.helloworld.test.app-mergeDebugAndroidTestResources-3 C:\Users\Administrator\AndroidStudioProjects\Winator\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.helloworld.test.app-merged_res-4 C:\Users\Administrator\AndroidStudioProjects\Winator\app\build\intermediates\merged_res\debugAndroidTest
+com.example.helloworld.test.app-androidTest-5 C:\Users\Administrator\AndroidStudioProjects\Winator\app\src\androidTest\res
+com.example.helloworld.test.app-androidTestDebug-6 C:\Users\Administrator\AndroidStudioProjects\Winator\app\src\androidTestDebug\res

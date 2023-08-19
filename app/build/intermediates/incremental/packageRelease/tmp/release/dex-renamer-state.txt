@@ -1,0 +1,4 @@
+#Sat Aug 19 17:32:51 IDT 2023
+base.0=C\:\\Users\\Administrator\\AndroidStudioProjects\\Winator\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

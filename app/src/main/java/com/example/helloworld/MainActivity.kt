@@ -1,4 +1,4 @@
-package com.example.helloworld
+package com.example.winator
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -6,6 +6,7 @@ import android.webkit.WebChromeClient
 import android.webkit.WebSettings
 import android.webkit.WebView
 import android.webkit.WebViewClient
+import com.example.helloworld.R
 
 class MainActivity : AppCompatActivity() {
     private lateinit var webView: WebView
